@@ -20,7 +20,6 @@ filtrarMovimientos=function(numeroCuenta){
     //En cada iteración, verifica si el numero de cuenta del movimiento es igual al que recibe como parametro
     //En caso de serlo, agrega la cuenta al arreglo movimientosCuenta
     //Invoca a mostrarMovimientos, pasándole como parámetro movimientosCuenta
-    movimientosCuenta
     for(let i=0;i<movimientos.length;i++){
         cuentaRecuperada=movimientos[i];
         if(cuentaRecuperada.numeroCuenta==numeroCuenta){
