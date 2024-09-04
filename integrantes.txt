@@ -1,0 +1,10 @@
+Nombre del equipo: ScriptMasters
+* David Llerena
+* Viviana Vaca
+* Jhon Guaman
+
+
+Usuarios git:
+David Llerena: David-Llerena
+Viviana Vaca: viviVaca
+Jhon Guaman: jhonGuaman
